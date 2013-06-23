@@ -1,4 +1,4 @@
-//
+//  Hi, Dongjin
 //  AppDelegate.h
 //  EventU-iphone-Prototype
 //
