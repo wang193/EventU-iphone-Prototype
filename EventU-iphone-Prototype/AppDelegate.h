@@ -1,4 +1,5 @@
 //  Hi, Dongjin
+//  My second Commit
 //  AppDelegate.h
 //  EventU-iphone-Prototype
 //
